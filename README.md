@@ -10,7 +10,7 @@ Create a portfolio to present all of the project completed in the course.  This 
 N/A for P1.
 
 ## Details for teaching team
-This is pretty straightforward for P1.
+Included css folder for the style.css file and the images folder for my photo.
 
 ## Outside code
 None used for this assignment.
